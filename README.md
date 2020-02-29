@@ -2,7 +2,7 @@
 
 <p align="center"> 
     <img src="https://github.com/andrewjamesbibby/permissions-calculator/blob/master/src/assets/matrix.png"></br>
-    A simple linux permissions calculator built with vue.js.
+    <strong>A simple linux permissions calculator built with vue.js.</strong>
 </p>
 
 
