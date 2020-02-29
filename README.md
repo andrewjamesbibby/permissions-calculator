@@ -1,4 +1,10 @@
-# permissions-calculator
+# Permissions Calculator
+
+<p align="center"> 
+    <img src="https://github.com/andrewjamesbibby/permissions-calculator/blob/master/src/assets/matrix.png">
+</p>
+
+This is a simple linux permissions calculator built with vue.js.
 
 ## Project setup
 ```
@@ -20,5 +26,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Credits
+
+Andrew James Bibby
